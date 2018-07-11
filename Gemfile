@@ -35,6 +35,7 @@ gem 'gravatar_image_tag', '~> 1.2'
 
 gem 'devise', '~> 4.4', '>= 4.4.3'
 
+gem 'font-awesome-rails', '~> 4.7', '>= 4.7.0.4'
 # Use ActiveStorage variant
 # gem 'mini_magick', '~> 4.8'
 
